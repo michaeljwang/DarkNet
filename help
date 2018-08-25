@@ -1,5 +1,7 @@
-Darknet Help Page|
-Navigate- Downloads the string and displays it in Darknet Encryption Language on your console
-Download- Downloads bytes from a file and writes it to another local file
-Setsite-  Sets the site you want to work with
-Restore-  Restors Settings|
+Darknet Help Page
+Please Note, all commands are lowercase|
+navigate Downloads the string and displays it in Darknet Encryption Language on your console
+download Downloads bytes from a file and writes it to another local file
+setsite  Sets the site you want to work with
+restore  Restores Settings
+cd Sets the current directory you want to work with|
