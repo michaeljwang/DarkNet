@@ -4,4 +4,4 @@ navigate Downloads the string and displays it in Darknet Encryption Language on 
 download Downloads bytes from a file and writes it to another local file
 setsite  Sets the site you want to work with
 restore  Restores Settings
-cd Sets the current directory you want to work with|
+cd       Sets the current directory you want to work with|
